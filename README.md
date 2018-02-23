@@ -2,7 +2,7 @@
 
 Training project in ReactJs.
 
-##Introduction
+## Introduction
 
 This is a training project created to try ReactJs's different functions and features.
 The projects shows mainly how to use:
@@ -16,14 +16,14 @@ REST API mock
 CSS Styling
 ```
 
-##Dependencies
+## Dependencies
 
 react@15.6.x
 react-router-dom@4.0.0
 json-server
 npm
 
-##Intallation
+## Intallation
 
 In order to launch the project, you need to clone the repository.
 The project calls to a REST API mockup, using json-server.
@@ -40,6 +40,6 @@ json-server --watch db.json --port 3004
 npm start run
 ```
 
-##Images
+## Images
 
 I have no rights on the images.
