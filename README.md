@@ -11,9 +11,12 @@ Components
 Routes
 Links
 Props
-Fetching
+Fetching API
 REST API mock
 CSS Styling
+Destructuring assignment
+React CSS Transitions
+Templating string
 ```
 
 ## Dependencies
@@ -31,6 +34,7 @@ The project calls to a REST API mockup, using json-server.
 1 - Launch the json-server mock in one terminal
 
 ```
+npm install
 json-server --watch db.json --port 3004
 ```
 
@@ -43,3 +47,11 @@ npm start run
 ## Images
 
 I have no rights on the images.
+
+## Screenshots
+
+Home Page
+![alt text](homepage.png)
+
+Team Search
+![alt text](search.png)
